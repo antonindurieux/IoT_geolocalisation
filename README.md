@@ -4,7 +4,7 @@
 
 The notebook of this folder presents a solution to geolocate IOT asset trackers thanks to a Machine Learning algorithm.
 
-The notebook has been redacted in french but you can find the corresponding english article in my portfolio here : https://antonindurieux.github.io/portfolio/2_IOT_geolocation/, under a beautiful presentation and with some small improvements.
+The notebook has been redacted in french but you can find the corresponding english article with some small improvements in my portfolio here : https://antonindurieux.github.io/portfolio/4_IOT_geolocation/.
 
 This project was a group work done during my Post Master program in Big Data at Télécom-Paris.
 
